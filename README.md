@@ -96,8 +96,8 @@
 
 | 구분 | 링크 | 
 |------|------|
-| 🖥️ Frontend | [2nd_GenieQ_FrontEnd](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_FrontEnd) 
-| 🛠️ Backend  | [2nd_GenieQ_BackEnd](https://github.com/ChunJae-Full-Stack-FinalProject/2nd_GenieQ_BackEnd) 
+| 🖥️ Frontend | [3rd_genius_FrontEnd](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_FrontEnd) 
+| 🛠️ Backend  | [3rd_genius_BackEnd](https://github.com/ChunJae-Full-Stack-FinalProject/3rd_genius_BackEnd) 
 <details>
 <summary>🖥️ 프론트엔드 구조 보기</summary>
 <pre><code>
