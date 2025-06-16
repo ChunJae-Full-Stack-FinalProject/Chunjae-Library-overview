@@ -1,9 +1,9 @@
 # 천재의 서재 - 교과서 기반 문제은행 서비스
 
 <p align="center">
-  <img src="./천재의 서재 로고.png" width="300" />
+  <a href="http://43.202.6.90:3000/home"><img src="./천재의 서재 로고.png" width="300" /></a>
 </p>
-
+<p align="center" style="font-size:4px; color: #0066cc;"><로고를 클릭하여 서비스 바로가기></p>
 <p align="center">
   <b>교과서 기반의 단원별 문제를 손쉽게 생성하고 편집할 수 있는 웹 서비스입니다.</b><br>
   선생님과 교육자를 위한 <b>AI 문제 생성</b>, <b>문항 편집</b>, <b>보관 및 다운로드</b> 기능을 제공합니다.
