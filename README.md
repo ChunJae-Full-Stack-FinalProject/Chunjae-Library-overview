@@ -400,6 +400,10 @@
 </code></pre>
 </details>
 
+## 🏗️ Web Application Architecture
+![Architecture_천재의서재](https://github.com/user-attachments/assets/4f0a8e57-81d5-431c-8760-1e783171c8fb)
+
+
 ## ✨ 주요 기능
 
 ### 📝 문제 생성 및 편집 
